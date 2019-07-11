@@ -1,6 +1,5 @@
-# animation
-
-A new Flutter project.
+# Flutter-Animation-Example
+A Simple Flutter app example implemented with Cat sneaking out of the box animation with Animation, Tween and AnimationBuilder classes
 
 ## Getting Started
 
